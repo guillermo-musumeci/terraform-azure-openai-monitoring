@@ -5,6 +5,8 @@
 
 How to send Azure OpenAI Logs and Events to Azure Log Analytics using Terraform
 
+Blog ==> https://gmusumeci.medium.com/how-to-send-azure-openai-logs-and-events-to-azure-log-analytics-using-terraform-e25cb67856a6
+
 ## Code creates:
 
 - Resource Group for Network
